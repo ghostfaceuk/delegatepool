@@ -12,8 +12,8 @@ PERCENTAGE = 75
 TRANSACTIONFEE = 0.1
 RISEPERDAY = 427.7228
 MINPAYOUT = 0.1
-SECRET = "fancy where grant idea man champion exile apology attract smart clump grace"
-SECONDSECRET = "pioneer comic warm lens armor crazy chaos clock grape market cricket oblige"
+SECRET = ""
+SECONDSECRET = ""
 
 
 def loadLog ():
