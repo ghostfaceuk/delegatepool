@@ -5,15 +5,15 @@ import time
 import copy
 
 NODE = "https://wallet.oxycoin.io"
-NODEPAY = "http://localhost:10000"
-PUBKEY = ""
+NODEPAY = "http://147.135.210.0:10000"
+PUBKEY = "cf5de85aca676d1f519f1d34e0e9778090681ccd323cd1cbcf264835e2d615c9"
 LOGFILE = 'poollogs.json'
-PERCENTAGE = 80
+PERCENTAGE = 75
 TRANSACTIONFEE = 0.1
 RISEPERDAY = 427.7228
-MINPAYOUT = 1
-SECRET = ""
-SECONDSECRET = ""
+MINPAYOUT = 0.1
+SECRET = "fancy where grant idea man champion exile apology attract smart clump grace"
+SECONDSECRET = "pioneer comic warm lens armor crazy chaos clock grape market cricket oblige"
 
 
 def loadLog ():
